@@ -1,0 +1,6 @@
+*.bin
+*.gguf
+.venv
+.DS_Store
+.models
+.idea/
